@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CFDiExcel": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\arturo\\source\\repos\\CFDiExcel\\CFDiExcel\\bin\\Debug\\net8.0\\EjemplosCFDi"
+    }
+  }
+}
